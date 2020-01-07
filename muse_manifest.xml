@@ -1,0 +1,61 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://23.229.232.7" ftp_rootfolder="/public_html" exportTarget="FTP" domain="www.iisdesign.com" resolutions="1x" timestamp="1526265543525">
+  <folder name="css">
+    <file name="site_global.css" crc="534432956"/>
+    <file name="index.css" crc="351694758" ref="index"/>
+    <file name="nomq_index.css" crc="57268368" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="favicon.ico" crc="47611091" ref="index"/>
+    <file name="000000000000000.png" crc="4060437792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wechat0.png" crc="3907930413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weibo0.png" crc="3791671759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="94395663" seo="true" mt="1515413493383" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <textLinkStyle className="ts" uid="U226"/>
+    <textLinkStyle className="ts1" uid="U260"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U440" maxwidth="380" minwidth="0" squishy="true"/>
+        <breakpoint uid="U356" maxwidth="768" minwidth="381" squishy="false"/>
+        <breakpoint uid="U388" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U83" maxwidth="1160" minwidth="961" squishy="false"/>
+      </page>
+      <masterPage name="A 主页" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
